@@ -1,0 +1,25 @@
+.mainContainer {
+  height: 100%;
+  width: 100%;
+  background-color: #dcbfff;
+}
+
+.chatContainer {
+  height: 80vh;
+  width: 60vw;
+  background-color: #7743db;
+  border-radius: 10px;
+  display: flex;
+}
+.chat {
+  display: flex;
+  flex: 2;
+}
+
+.contacts {
+  display: flex;
+  flex: 1;
+  height: 80vh;
+  width: 100%;
+  border-right: 1px solid red;
+}
